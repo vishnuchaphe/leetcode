@@ -1,0 +1,13 @@
+# macOS files
+.DS_Store
+
+# R history
+.Rhistory
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
